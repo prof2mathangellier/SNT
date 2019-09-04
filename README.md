@@ -36,7 +36,7 @@ Par exemple, `>>> 12+3*5` ou  `>>> print('Hello World')`, ou encore  `>>> a=3`  
 
 ### L'explorateur de variables
 
-* Il est intéressant d'avoir une vue sur les variables définiesen cours de programmation. Pour cela Thonny offre la possibilité d'ouvrir un nouveau panneau (onglet `Variables`)
+* Il est intéressant d'avoir une vue sur les variables définies en cours de programmation. Pour cela Thonny offre la possibilité d'ouvrir un nouveau panneau (onglet `Variables`)
 * Pour l'obtenir, cliquer sur ' *View* ' et cocher ' *Variables* '
 * un nouveau panneau  apparaît sur la droite qui présente les variables en donnant leur nom et leur valeur
 * dans le shell ajouter une définition d'une nouvelle variable, puis modifier sa valeur. Observer dans la vue sur les variables
