@@ -255,7 +255,7 @@ on peut préciser ```padding -top``` ; ```padding -bottom``` ; ```padding -left`
 -	marge extérieure entre la bordure et le texte à l’extérieur : ```margin``` en px
 on peut préciser ```margin-top``` ; ```margin-bottom``` ; ```margin-left``` ; ```margin-right```  
 
-![illustration_des_marges](marges.png#center)   
+![illustration_des_marges](marges.png)   
 Pour centrer un bloc après lui avoir donné une largeur, utiliser : ```margin : auto```.  
 Si le texte contenu dans le bloc dépasse ses limites, le navigateur peut ajouter des barres de défilement : ```overflow : auto```  
 Le positionnement ```inline-block``` permet de transformer, grâce à la propriété ```display```, en inline-block deux éléments que l’on veut placer côte à côte, par exemple un menu de navigation et une section du centre de la page.
