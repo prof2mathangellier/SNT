@@ -17,7 +17,7 @@ On peut distinguer deux types de balises :
 -	les balises orphelines :``` <img />```
 
 Les balises possèdent généralement des options appelées _**attributs**_.  
-Ainsi ```<image src= “maphoto.jpg“ />``` ;  l’attribut src indique le chemin vers le fichier source de cette image.
+Ainsi ```<img src= “maphoto.jpg“ />``` ;  l’attribut src indique le chemin vers le fichier source de cette image.
 
 _**Écrire des commentaires**_ : ```<!--  ceci est un commentaire  -->```  : il est très utile d’en écrire pour se retrouver dans son code et savoir le relire ultérieurement 
 
