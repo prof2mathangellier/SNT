@@ -1,4 +1,4 @@
-*** Format d'image numérique couramment utilisé sur le web.
+## Format d'image numérique couramment utilisé sur le web.
 
 JPEG ou JPG :
 --
