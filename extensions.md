@@ -3,7 +3,7 @@
 JPEG ou JPG :
 --
 Joint Photographic Experts Group est une norme qui définit le format d'enregistrement et l'algorithme de décodage pour une représentation numérique compressée d'une image fixe.
-C'est un nom donné aux fichiers et images de MAC. 
+C'est un nom donné aux fichiers et images de MAC.  
 JPG signifie exactement la même chose mais s'utilise en abrégé avec ces trois lettres pour faire référence aux fichiers ou images sur PC ou Windows.
 Les fichiers JPEG et JPG sont donc en fait la même chose, il s'agit seulement de différencier s'il ont été généré sous MAC ou PC
 
@@ -16,6 +16,8 @@ PNG
 Le Portable Network Graphics est un format ouvert d'images numériques, qui a été créé pour remplacer le format GIF,
 à l'époque propriétaire, et dont la compression était soumise à un brevet. 
 Le PNG est un format sans perte spécialement adapté pour publier des images simples comprenant des aplats de couleurs.
+
+
 
 
 En 1993, le navigateur web NCSA Mosaic a été le premier à permettre l'intégration d'images aux pages web : les formats GIF et XBM étaient supportés. Le support du format JPEG a été introduit en 1994 par Netscape Navigator.
