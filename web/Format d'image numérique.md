@@ -25,7 +25,7 @@ Le PNG est un format sans perte spécialement adapté pour publier des images si
   <img src="emoji.jpg" alt="exemple image jpg">
 </div>
 ```
-[exemple image png jpg](!exemple_png_jpg.png) 
+![exemple image png jpg](exemple_png_jpg.png) 
 
 En 1993, le navigateur web NCSA Mosaic a été le premier à permettre l'intégration d'images aux pages web : les formats GIF et XBM étaient supportés. Le support du format JPEG a été introduit en 1994 par Netscape Navigator.
 
