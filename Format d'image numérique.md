@@ -18,7 +18,9 @@ Le Portable Network Graphics est un format ouvert d'images numériques, qui a é
 Le PNG est un format sans perte spécialement adapté pour publier des images simples comprenant des aplats de couleurs.
 
 ```html
-<div style="background-color: blue"><img src="Emoji.png" alt="exemple image png"><img src="Emoji.jpg" alt="exemple image jpg"></div>
+<div style="background-color: blue">
+  <img src="Emoji.png" alt="exemple image png"><img src="Emoji.jpg" alt="exemple image jpg">
+</div>
 ```
 
 En 1993, le navigateur web NCSA Mosaic a été le premier à permettre l'intégration d'images aux pages web : les formats GIF et XBM étaient supportés. Le support du format JPEG a été introduit en 1994 par Netscape Navigator.
