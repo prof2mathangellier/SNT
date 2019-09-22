@@ -10,15 +10,16 @@ Les fichiers JPEG et JPG sont donc en fait la même chose, il s'agit seulement d
 GIF :
 --
 Le Graphics Interchange Format (littéralement « format d'échange d'images »). Ce format est un peu limité en couleur, et surtout, il a été longtemps été soumis à des droits d'utilisation par Unisys (propriétaire)
-<div style="color: blue">
+
 PNG
 --
 Le Portable Network Graphics est un format ouvert d'images numériques, qui a été créé pour remplacer le format GIF,
 à l'époque propriétaire, et dont la compression était soumise à un brevet. 
 Le PNG est un format sans perte spécialement adapté pour publier des images simples comprenant des aplats de couleurs.
-</div>
-<div style="background-color: blue"><img src="Emoji.png" alt="exemple image png"><img src="Emoji.jpg" alt="exemple image jpg"></div>
 
+```html
+<div style="background-color: blue"><img src="Emoji.png" alt="exemple image png"><img src="Emoji.jpg" alt="exemple image jpg"></div>
+```
 
 En 1993, le navigateur web NCSA Mosaic a été le premier à permettre l'intégration d'images aux pages web : les formats GIF et XBM étaient supportés. Le support du format JPEG a été introduit en 1994 par Netscape Navigator.
 
