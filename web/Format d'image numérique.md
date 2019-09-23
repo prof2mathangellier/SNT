@@ -17,6 +17,11 @@ Le Portable Network Graphics est un format ouvert d'images numériques, qui a é
 à l'époque propriétaire, et dont la compression était soumise à un brevet. 
 Le PNG est un format sans perte spécialement adapté pour publier des images simples comprenant des aplats de couleurs.
 
+La Transparence, ou couche Alpha
+--
+Les images peuvent posséder une quatrième couche, la couche alpha, en plus des trois couches rouge, verte et bleue. Cette couche ne modifie pas les couleurs de l'image et sert dans la plupart des cas à gérer la transparence de l'image, par exemple pour permettre de voir ce qu'il y a derrière l'image. Le format PNG peut prendre en charge une couche alpha. Le format GIF simule la transparence en utilisant une couleur considérée comme transparente. Dans les jeux vidéo, l'emploi de la couche alpha sur les textures permet par exemple de modifier leur réflexion ou leur transparence. 
+
+
 ```html
 <div style="background-color: yellow">
   <p> image .png </p>
