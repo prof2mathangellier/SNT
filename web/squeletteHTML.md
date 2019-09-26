@@ -17,3 +17,8 @@ _**Structure de base d’une page HTML**_ : observez comment les balises s'ouvre
   
 </html>
 ```
+
+
+
+
+https://www.w3.org/Style/Examples/011/firstcss.fr.html
