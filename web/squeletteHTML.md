@@ -22,3 +22,4 @@ _**Structure de base d’une page HTML**_ : observez comment les balises s'ouvre
 
 
 https://www.w3.org/Style/Examples/011/firstcss.fr.html
+http://slaout.linux62.org/html_css/html.html
