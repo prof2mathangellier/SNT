@@ -20,10 +20,10 @@ Elle dispose maintenant de deux fichiers : un fichier HTML (son texte structuré
 - **Son ami Edgar peut alors consulter le site d'Alice : dans ce cas le navigateur d'Edgar récupère une copie des deux fichiers HTML et CSS auprès du serveur http avant d'afficher le texte d'Alice.**  
 ![client-serveur3](client-serveur3.jpg)
 
-Si vous avez étudié l'historique du web, vous remarquez qu'on a bien besoin des trois logiciels qui avaient été conçus dès le départ de l'invention du web par Tim Berners-Lee :
-*un éditeur pour la création des fichiers HTML et CSS,
-*un serveur http pour la mise à disposition des fichiers HTML et CSS sur Internet,
-*un navigateur pour pouvoir consulter les fichiers HTML et CSS mis à disposition par le serveur http.
+Si vous avez étudié l'historique du web, vous remarquez qu'on a bien besoin des trois logiciels qui avaient été conçus dès le départ de l'invention du web par Tim Berners-Lee :  
+* un éditeur pour la création des fichiers HTML et CSS,
+* un serveur http pour la mise à disposition des fichiers HTML et CSS sur Internet,
+* un navigateur pour pouvoir consulter les fichiers HTML et CSS mis à disposition par le serveur http.
 
 Petite remarque supplémentaire concernant le mot "serveur".  
 Il s'agit tout simplement d'un logiciel.  
