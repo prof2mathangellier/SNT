@@ -13,7 +13,7 @@ Toujours avec son éditeur de texte, elle indique la mise en page qu'elle souhai
 Elle dispose maintenant de deux fichiers : un fichier HTML (son texte structuré) et un fichier CSS (sa mise en page).
 ![client-serveur1](client-serveur1.jpg)  
 
-- **Elle envoie une copie - en utilisant Internet - de ces deux fichiers qui seront alors enregistrées sur son serveur http.**  
+- **Elle envoie une copie - en empruntant le réseau Internet - de ces deux fichiers qui seront alors enregistrées sur son serveur http.**  
 
 ![client-serveur2](client-serveur2.jpg)  
 
