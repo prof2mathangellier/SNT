@@ -12,7 +12,7 @@ Toujours avec son éditeur de texte, elle indique la mise en page qu'elle souhai
 
 Elle dispose maintenant de deux fichiers : un fichier HTML (son texte structuré) et un fichier CSS (sa mise en page).
 
-**Elle envoie une copie - en utilisant Internet - de ces deux fichiers sur son serveur http hébergé par son fournisseur d'accès à Internet.
+** Elle envoie une copie - en utilisant Internet - de ces deux fichiers sur son serveur http hébergé par son fournisseur d'accès à Internet.
 
 Son ami Bob peut alors consulter le site d'Alice : dans ce cas le navigateur de Bob récupère une copie des deux fichiers HTML et CSS auprès du serveur http avant d'afficher le texte d'Alice
 
