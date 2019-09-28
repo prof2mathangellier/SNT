@@ -5,10 +5,10 @@ Client-serveur : mise en ligne d'un site web
  Voilà ci-dessous les grandes étapes pour y parvenir.
 
 Alice ouvre un éditeur de texte puis écrit son texte qu'elle structure pour qu'il respecte le langage HTML.  
--**Cela lui donne un fichier HTML.**  
+- **Cela lui donne un fichier HTML.**  
 
 Toujours avec son éditeur de texte, elle indique la mise en page qu'elle souhaite effectuer en respectant le langage CSS.  
--**Cela lui donne un fichier CSS.**  
+- **Cela lui donne un fichier CSS.**  
 
 Elle dispose maintenant de deux fichiers : un fichier HTML (son texte structuré) et un fichier CSS (sa mise en page).
 
