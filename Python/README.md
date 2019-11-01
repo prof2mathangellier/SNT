@@ -11,9 +11,11 @@ _Pourquoi as-tu pris 6 bouteilles de lait ?_
 
 J’ai répondu :
 
-_Car ils avaient des œufs …_  😉 U+1F609
+_Car ils avaient des œufs …_  😵  
 
-J'ai suivi la logique séquentielle d'un ordinateur...    
+
+
+😉 J'ai suivi la logique séquentielle d'un ordinateur...    
 Pour comprendre cela, il faut bien entendu suivre ces instructions à la lettre :  
 >On me demande de ramener 1 produit _bouteille de lait_  
 >Si il y a des oeufs, je dois prendre 6 produits, donc 6 _bouteille de lait_  
