@@ -31,7 +31,7 @@ rangée de boutons, et deux panneaux avec des onglets:
 *  l'onglet nommé `<untitled>` par défaut correspond à l'éditeur: on pourra le renommer par la suite.
 * L'onglet nommé `Shell` correspond à l'interpréteur Python, aussi appelé console Python, qui est un mode interactif direct.
 
-![vue sur Thonny](../introduction_Thonny/image1_thonny.png)
+![vue sur Thonny](../image1_thonny.png)
 
 --------------
 ### Le shell
