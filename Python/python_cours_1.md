@@ -43,6 +43,8 @@ Le *shell* est donc la zone dans laquelle l'utilisateur interagit/dialogue avec 
 L'*invite de commande* (ou prompt) `>>>` attend une instruction. 
 Par exemple, `>>> 12 + 3*5` ou  `>>> print('Hello World')`, ou encore  `>>> a = 3`  puis `>>> print(a)`
 
+[lien vers la fiche eleve](python_cours1_ficheTD.md)
+
 -----------------------
 # Calculer avec Python
 -----------------------
