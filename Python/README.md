@@ -11,7 +11,7 @@ _Pourquoi as-tu pris 6 bouteilles de lait ?_
 
 J’ai répondu :
 
-_Car ils avaient des œufs …_
+_Car ils avaient des œufs …_  &#x1F609
 
 J'ai suivi la logique séquentielle d'un ordinateur...    
 Pour comprendre cela, il faut bien entendu suivre ces instructions à la lettre :  
