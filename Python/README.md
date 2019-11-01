@@ -1,6 +1,8 @@
-------------------------------------------------------------------
+|--------------------------------------------------------------------|
 | # La blague du jour : Le problème de la logique des informaticiens |
--------------------------------------------------------------------
+|--------------------------------------------------------------------|
+
+
 
 Ma mère :  
 _Mon chéri, peux-tu aller au supermarché et me ramener une bouteille de lait. Si ils ont des œufs, prends en 6 !_
