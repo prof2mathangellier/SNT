@@ -3,16 +3,16 @@
 -------------------------------------------------------------------
 
 Ma mère :  
-_Mon chéri, peux-tu aller au supermarché et me ramener une bouteille de lait. Si ils ont des œufs, prends en 6 ! _
+_Mon chéri, peux-tu aller au supermarché et me ramener une bouteille de lait. Si ils ont des œufs, prends en 6 !_
 
 Je suis revenu avec 6 bouteilles de lait.
 
 Ma mère a dit : 
-_Pourquoi as-tu pris 6 bouteilles de lait ? _
+_Pourquoi as-tu pris 6 bouteilles de lait ?_
 
 J’ai répondu :
 
-_Car ils avaient des œuf … _
+_Car ils avaient des œuf …_
 
 
 Pour comprendre cela, il faut bien entendu suivre ces instructions à la lettre :
