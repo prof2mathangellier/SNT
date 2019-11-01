@@ -1,5 +1,5 @@
 ------------------------------------------------------------------
-|#La blague du jour : Le problème de la logique des informaticiens|
+| # La blague du jour : Le problème de la logique des informaticiens |
 -------------------------------------------------------------------
 
 Ma mère :  
