@@ -52,7 +52,7 @@ En général, le surf commence par **une adresse** (saisie manuellement dans la 
 
 Une adresse est toujours constituée de la façon suivante : 
 
-**protocole://adresse-du-serveur:port/chemin/ressource** 
+**protocole://adresse-du-serveur/chemin/ressource** 
 
 Cette adresse est appelée **URL**  (**U**niform **R**esource **L**ocator, système universel de localisation des ressources) :
 
