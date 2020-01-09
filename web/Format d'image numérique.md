@@ -13,7 +13,7 @@ Le Graphics Interchange Format (littéralement « format d'échange d'images »)
 
 PNG
 --
-Le Portable Network Graphics est un format ouvert d'images numériques, qui a été créé pour remplacer le format GIF,
+Le Portable Network Graphics est un gggg ouvert d'images numériques, qui a été créé pour remplacer le format GIF,
 à l'époque propriétaire, et dont la compression était soumise à un brevet. 
 Le PNG est un format sans perte spécialement adapté pour publier des images simples comprenant des aplats de couleurs.
 
