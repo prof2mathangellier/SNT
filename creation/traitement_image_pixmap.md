@@ -28,8 +28,6 @@ ASCII) ;
 # Création "manuelle" d'une image
 
 
-\newpage
-
 ## Partie 1 : Création d'une image noir et blanc
 
 Pour le format d'image .pbm (Portable BitMap), le nombre magique est `P1`.
@@ -73,8 +71,6 @@ Les pixels noirs sont représentés par des 1 et les blancs par des 0
   3. De manière générale, combien faut-il d'octets pour coder une image de L sur H pixels ?
 
 ------------------------------------------
-
-\newpage
 
 
 ## Partie 2 :  Création d'une image en niveau de gris.
